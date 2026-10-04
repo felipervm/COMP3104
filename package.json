@@ -1,0 +1,11 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "COMP3104 DevOps lab project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "author": "Felipe da Rocha Vieira Mattos",
+  "license": "ISC"
+}
